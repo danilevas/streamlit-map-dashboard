@@ -1,0 +1,159 @@
+Bairro,Ranking,CdO,Fator Mapa
+Gamboa,1,-40,1
+Jardim Sulacap,2,-40,1
+Piedade,3,-40,1
+Engenho de Dentro,4,-39,0.99
+Curicica,5,-38,0.98
+Cascadura,6,-37,0.97
+Paciência,7,-37,0.97
+Cocotá,8,-36,0.96
+Vargem Pequena,9,-36,0.96
+Cidade Nova,10,-36,0.96
+Praça Seca,11,-36,0.96
+São Cristóvão,12,-35,0.95
+Rocinha,13,-34,0.94
+Urca,14,-34,0.94
+Praça da Bandeira,15,-33,0.93
+Ribeira,16,-32,0.92
+Anil,17,-32,0.92
+Itanhangá,18,-31,0.91
+Laranjeiras,19,-31,0.91
+Inhaúma,20,-31,0.91
+Jardim Botânico,21,-30,0.9
+Vicente de Carvalho,22,-30,0.9
+Pilares,23,-30,0.9
+Ipanema,24,-30,0.9
+Senador Camará,25,-29,0.89
+Quintino Bocaiuva,26,-29,0.89
+Olaria,27,-28,0.88
+Jacarepaguá,28,-24,0.84
+Parada de Lucas,29,-23,0.83
+Parque Colúmbia,30,-22,0.82
+Costa Barros,31,-21,0.81
+Zumbi,32,-21,0.81
+Grumari,33,-20,0.8
+Cosme Velho,34,-20,0.8
+Camorim,35,-20,0.8
+Maré,36,-20,0.8
+Senador Vasconcelos,37,-19,0.79
+Água Santa,38,-18,0.78
+Centro,39,-17,0.77
+Vila Militar,40,-17,0.77
+Freguesia (Jacarepaguá),41,-17,0.77
+Catete,42,-16,0.76
+Encantado,43,-16,0.76
+Barra de Guaratiba,44,-16,0.76
+Méier,45,-15,0.75
+Rocha,46,-15,0.75
+Acari,47,-14,0.74
+Catumbi,48,-13,0.73
+Maria da Graça,49,-12,0.72
+Santa Teresa,50,-12,0.72
+Cacuia,51,-12,0.72
+Barra da Tijuca,52,-12,0.72
+Guadalupe,53,-11,0.71
+Deodoro,54,-11,0.71
+Recreio dos Bandeirantes,55,-11,0.71
+Higienópolis,56,-11,0.71
+Rio Comprido,57,-10,0.7
+Caju,58,-10,0.7
+Guaratiba,59,-10,0.7
+Del Castilho,60,-9,0.69
+Santa Cruz,61,-8,0.68
+Saúde,62,-7,0.67
+Jacarezinho,63,-7,0.67
+Manguinhos,64,-7,0.67
+Cidade de Deus,65,-7,0.67
+Jardim Guanabara,66,-6,0.66
+Riachuelo,67,-6,0.66
+Copacabana,68,-5,0.65
+São Francisco Xavier,69,-4,0.64
+Campinho,70,-4,0.64
+Rocha Miranda,71,-3,0.63
+Coelho Neto,72,-3,0.63
+Oswaldo Cruz,73,-2,0.62
+Parque Anchieta,74,-2,0.62
+Flamengo,75,-2,0.62
+Padre Miguel,76,-1,0.61
+Lins de Vasconcelos,77,0,0.6
+Freguesia (Ilha),78,0.02,0.5998
+Bancários,79,0.1,0.599
+Galeão,80,0.3,0.597
+Tauá,81,0.7,0.593
+Glória,82,1,0.59
+Jardim América,83,1,0.59
+Portuguesa,84,1,0.59
+Cachambi,85,1,0.59
+Praia da Bandeira,86,1,0.59
+Moneró,87,2,0.58
+Pitangueiras,88,2,0.58
+Humaitá,89,3,0.57
+Vila Kosmos,90,3,0.57
+Madureira,91,4,0.56
+Alto da Boa Vista,92,4,0.56
+Vigário Geral,93,4,0.56
+Tijuca,94,5,0.55
+Honório Gurgel,95,6,0.54
+Tomás Coelho,96,6,0.54
+Leblon,97,9,0.51
+Abolição,98,9,0.51
+Ramos,99,9,0.51
+Gávea,100,9,0.51
+Vasco da Gama,101,10,0.5
+Colégio,102,10,0.5
+Vaz Lobo,103,11,0.49
+Vidigal,104,11,0.49
+Grajaú,105,12,0.48
+Vila Valqueire,106,12,0.48
+Tanque,107,13,0.47
+Engenho da Rainha,108,13,0.47
+Lagoa,109,14,0.46
+Cidade Universitária,110,14,0.46
+Joá,111,14,0.46
+Sampaio,112,16,0.44
+Cavalcanti,113,16,0.44
+Realengo,114,16,0.44
+Marechal Hermes,115,16,0.44
+Penha Circular,116,16,0.44
+Estácio,117,17,0.43
+Benfica,118,17,0.43
+Pechincha,119,17,0.43
+Brás de Pina,120,18,0.42
+Cordovil,121,19,0.41
+Vargem Grande,122,19,0.41
+Pavuna,123,19,0.41
+Leme,124,20,0.4
+Bangu,125,20,0.4
+Jardim Carioca,126,21,0.39
+Jacaré,127,21,0.39
+Magalhães Bastos,128,21,0.39
+Bento Ribeiro,129,21,0.39
+Taquara,130,25,0.35
+Penha,131,25,0.35
+Vista Alegre,132,25,0.35
+Andaraí,133,26,0.34
+Engenho Novo,134,26,0.34
+Santíssimo,135,27,0.33
+Turiaçu,136,27,0.33
+Todos os Santos,137,28,0.32
+Anchieta,138,28,0.32
+Engenheiro Leal,139,29,0.31
+Complexo do Alemão,140,29,0.31
+Gardênia Azul,141,30,0.3
+Inhoaíba,142,31,0.29
+Ricardo de Albuquerque,143,31,0.29
+São Conrado,144,31,0.29
+Campo Grande,145,32,0.28
+Mangueira,146,33,0.27
+Irajá,147,33,0.27
+Sepetiba,148,34,0.26
+Campo dos Afonsos,149,34,0.26
+Santo Cristo,150,34,0.26
+Botafogo,151,36,0.24
+Vila Isabel,152,37,0.23
+Maracanã,153,37,0.23
+Vila da Penha,154,37,0.23
+Cosmos,155,38,0.22
+Bonsucesso,156,39,0.21
+Barros Filho,157,39,0.21
+Pedra de Guaratiba,158,40,0.2
